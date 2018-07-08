@@ -3,8 +3,8 @@
 ### Regex
 Problem|C++|Go|comment
 ---|---|---|---
-[Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem)||[hr_detect_html_links.go](./HackerRandk/hr_detect_html_links.go)
-[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)||[hr_the_power_sum.go](./HackerRandk/hr_the_power_sum.go)|
+[Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem)||[hr_detect_html_links.go](./HackerRank/hr_detect_html_links.go)
+[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)||[hr_the_power_sum.go](./HackerRank/hr_the_power_sum.go)|
 
 ## LeetCode
 Problem|C++|Go|comment
