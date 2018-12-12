@@ -5,8 +5,9 @@
 ### Regex
 Problem|C++|Go|comment
 ---|---|---|---
-[Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem)||[hr_detect_html_links.go](./HackerRank/hr_detect_html_links.go)
-[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)||[hr_the_power_sum.go](./HackerRank/hr_the_power_sum.go)|
+[Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem)||[detect_html_links.go](./HackerRank/detect_html_links.go)
+[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)||[the_power_sum.go](./HackerRank/the_power_sum.go)|
+[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|[cantacts.cpp](./HackerRank/cantacts.cpp)|Trie|
 
 ## LeetCode
 Problem|C++|Go|comment
