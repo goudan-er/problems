@@ -43,4 +43,11 @@ Problem|C++|Go|comment
 [155. Min Stack](https://leetcode.com/problems/min-stack/)|[155.cpp](./leetcode/cpp/155.cpp)|[155.go](./leetcode/golang/155.go)|Min Stack :heart: |
 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)|[227.cpp](./leetcode/cpp/227.cpp)|
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[]()|[230.go](./leetcode/golang/230.go)||
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[]()|[287.go](./leetcode/golang/287.go)|Linked List Cycle :heart:|
+[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[]()|[300.go](./leetcode/golang/300.go)||
+[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[]()|[349.go](./leetcode/golang/349.go)||
+[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[]()|[350.go](./leetcode/golang/350.go)|What if the given array is already sorted? How would you optimize your algorithm?<br/>What if nums1's size is small compared to nums2's size? Which algorithm is better?<br/>What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?<br/>
+|
 [#. Title]()|[#.cpp](./leetcode/cpp/#.cpp)|[#.go](./leetcode/golang/#.go)||
+
+
