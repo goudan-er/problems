@@ -1,5 +1,11 @@
 ## GeeksforGeeks
 
+### cc150
+Problem|C++|Go|comment
+---|---|---|---
+[1.4](https://practice.geeksforgeeks.org/problems/urlify-a-given-string/0)|[cc150_1_4.cpp](./GeeksforGeeks/cc150_1_4.cpp)||
+
+
 ## HackerRank
 
 ### Regex
@@ -31,22 +37,25 @@ Problem|C++|Go|comment
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[]()|[24.go](./leetcode/golang/24.go)||
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[]()|[26.go](./leetcode/golang/26.go)||
 [27. Remove Element](https://leetcode.com/problems/remove-element/)|[]()|[27.go](./leetcode/golang/27.go)||
+[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[]()|[29.go](./leetcode/golang/29.go)||
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[32.cpp](./leetcode/cpp/32.cpp)||
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[]()|[33.go](./leetcode/golang/33.go)|Rotated Sorted Array|
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[34.cpp](./leetcode/cpp/34.cpp)|[34.go](./leetcode/golang/34.go)|use stl equal_range in cpp solution|
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[]()|[35.go](./leetcode/golang/35.go)||
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[]()|[50.go](./leetcode/golang/50.go)||
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[]()|[56.go](./leetcode/golang/56.go)||
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[]()|[70.go](./leetcode/golang/70.go)||
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[71.cpp](./leetcode/cpp/71.cpp)|[]()||
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[]()|[74.go](./leetcode/golang/74.go)||
 [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)||[93.go](./leetcode/golang/93.go)|
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[]()|[153.go](./leetcode/golang/153.go)|Rotated Sorted Array :heart:|
 [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[]()|[154.go](./leetcode/golang/154.go)|Rotated Sorted Array :heart:|
 [155. Min Stack](https://leetcode.com/problems/min-stack/)|[155.cpp](./leetcode/cpp/155.cpp)|[155.go](./leetcode/golang/155.go)|Min Stack :heart: |
 [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)|[227.cpp](./leetcode/cpp/227.cpp)|
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[]()|[230.go](./leetcode/golang/230.go)||
+[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[240.cpp](./leetcode/cpp/240.cpp)|[]()|:heart:|
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[]()|[287.go](./leetcode/golang/287.go)|Linked List Cycle :heart:|
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[]()|[300.go](./leetcode/golang/300.go)||
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[]()|[349.go](./leetcode/golang/349.go)||
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[]()|[350.go](./leetcode/golang/350.go)|What if the given array is already sorted? How would you optimize your algorithm?<br/>What if nums1's size is small compared to nums2's size? Which algorithm is better?<br/>What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?<br/>|
 [#. Title]()|[#.cpp](./leetcode/cpp/#.cpp)|[#.go](./leetcode/golang/#.go)||
-
-

@@ -2,8 +2,13 @@ package leetcode
 
 type TreeNode struct {
 	val   int
-	left  *TreeNode
-	right *TreeNode
+	left  TreeNode
+	right TreeNode
+}
+
+type Interval struct {
+	Start int
+	End   int
 }
 
 func min(x, y int) int {
