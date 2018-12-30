@@ -43,10 +43,12 @@ Problem|C++|Go|comment
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[34.cpp](./leetcode/cpp/34.cpp)|[34.go](./leetcode/golang/34.go)|use stl equal_range in cpp solution|
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[]()|[35.go](./leetcode/golang/35.go)||
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[]()|[50.go](./leetcode/golang/50.go)||
+[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[54.cpp](./leetcode/cpp/54.cpp)|[54.go](./leetcode/golang/54.go)||
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[]()|[56.go](./leetcode/golang/56.go)||
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[]()|[70.go](./leetcode/golang/70.go)||
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/)|[71.cpp](./leetcode/cpp/71.cpp)|[]()||
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[]()|[74.go](./leetcode/golang/74.go)||
+[81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[]()|[81.go](./leetcode/golang/81.go)||
 [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)||[93.go](./leetcode/golang/93.go)|
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[]()|[153.go](./leetcode/golang/153.go)|Rotated Sorted Array :heart:|
 [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[]()|[154.go](./leetcode/golang/154.go)|Rotated Sorted Array :heart:|
