@@ -4,12 +4,12 @@ import (
 	"math"
 )
 
-func min(x, y int) int {
-	if x < y {
-		return x
-	}
-	return y
-}
+// func min(x, y int) int {
+// 	if x < y {
+// 		return x
+// 	}
+// 	return y
+// }
 
 type MinStack struct {
 	numsStk []int

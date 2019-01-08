@@ -1,11 +1,11 @@
 package leetcode
 
-func min(x, y int) int {
-	if x < y {
-		return x
-	}
-	return y
-}
+// func min(x, y int) int {
+// 	if x < y {
+// 		return x
+// 	}
+// 	return y
+// }
 
 func findMin(nums []int) int {
 	l, r := 0, len(nums)-1

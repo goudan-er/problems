@@ -1,9 +1,9 @@
 package leetcode
 
 type TreeNode struct {
-	val   int
-	left  TreeNode
-	right TreeNode
+	Val   int
+	left  *TreeNode
+	right *TreeNode
 }
 
 type Interval struct {
@@ -23,4 +23,10 @@ func max(x, y int) int {
 		return x
 	}
 	return y
+}
+func abs(x int) int {
+	if x < 0 {
+		return -x
+	}
+	return x
 }
