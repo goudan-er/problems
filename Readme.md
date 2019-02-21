@@ -1,10 +1,16 @@
 ## GeeksforGeeks
 
 ### cc150
-Problem|C++|Go|comment
----|---|---|---
-[1.4](https://practice.geeksforgeeks.org/problems/urlify-a-given-string/0)|[cc150_1_4.cpp](./GeeksforGeeks/cc150_1_4.cpp)||
+Problem|C++|comment
+---|---|---
+[1.4](https://practice.geeksforgeeks.org/problems/urlify-a-given-string/0)|[cc150_1_4.cpp](./GeeksforGeeks/cc150_1_4.cpp)|
+[9.4](https://practice.geeksforgeeks.org/problems/subsets/0)|[cc150_9_4.cpp](./GeeksforGeeks/cc150_9_4.cpp)|
+[9.4](https://practice.geeksforgeeks.org/problems/combination-sum/0)|[cc150_9_8.cpp](./GeeksforGeeks/cc150_9_8.cpp)|
 
+### Practice
+Problem|C++|comment
+---|---|---
+[min heap](https://www.geeksforgeeks.org/binary-heap/)|[min_heap.h](./GeeksforGeeks/min_heap.h)<br/>[min_heap.cpp](./GeeksforGeeks/min_heap.cpp)|
 
 ## HackerRank
 
